@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #222831;
 		position: relative;
       border: none;
       float: right;
@@ -159,8 +159,8 @@
    /* display menu panels */
 	#nav-wrap:target > ul#nav	{
 	   display: block;
-      padding: 30px 20px 48px 20px;
-      background: #1f2024;
+      padding: 20px 20px 20px 20px;
+      background: #222831;
       margin: 0 30px;
       clear: both;
    }
@@ -180,7 +180,7 @@
       margin: 0;
       padding: 0;      
       margin: 12px 0; 
-      line-height: 16px; /* reset line-height from 48px */
+      line-height: 20px; /* reset line-height from 48px */
       border: none;
    }  
 

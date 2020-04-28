@@ -28,7 +28,7 @@ let resumeData = {
         }
 
       ],
-    "aboutme":"I've been working in front end development for 10 years. In that time I've obtained a 1st class degree in BSc Computing and worked with large and small scale companies developing and building a range of products from mobile to web.",
+    "aboutme":"A passionate full-stack developer in modern JavaScript frameworks with an edge: the ability to create beautiful design systems for any application. Working in large & small companies I’ve had great exposure to building products from the ground up or improving existing ones. ",
     "address":"London, UK",
     "website":"perryjsteward@gmail.com",
     "education":[
@@ -37,10 +37,36 @@ let resumeData = {
         "specialization":"BSc (Hons) Computing",
         "MonthOfPassing":"May",
         "YearOfPassing":"2015",
-        "Achievements":"1st Class Degree. Advanced Web Design, Artificial Intelligence, Client Server Programming, Advanved Databases"
+        "Achievements":"1st Class Degree. Advanced Web Design, Artificial Intelligence, Client Server Programming, Advanved Databases, Computer Science"
       }
     ],
     "work":[
+      {
+        "CompanyName":"Koine",
+        "specialization":"Lead Front End Developer",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"Present",
+        "Achievements": [{
+          "title": "Crypto Custodian UI",
+          "description": "Engineered Front End, integrating with real time streaming financial data for digital asset custodian services.",
+          "tags": "Angular 8, Javascript, TypeScript, Cryptocurrency, Finance"
+        },{
+          "title": "Koine API",
+          "description": "Designed & developed internal/external facing API's to allow atomic trade settlements, account & asset management.",
+          "tags": "ExpressJS, NodeJS, Unit Testing, CI/CD, Finance"
+        }]
+      },
+      {
+        "CompanyName":"Tobias & Tobias",
+        "specialization":"Lead UI Developer",
+        "MonthOfLeaving":"April",
+        "YearOfLeaving":"2019",
+        "Achievements": [{
+          "title": "Design Agency Front End Projects",
+          "description": "Working with the client to understand technical requirements and implement UI designs into code according to specifications",
+          "tags": "Angular 7, JavaScript, TypeScript, Node.js, Finance"
+        }]
+      },
       {
         "CompanyName":"Metis Labs",
         "specialization":"Lead Front End Developer",
